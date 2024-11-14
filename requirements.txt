@@ -6,3 +6,4 @@ tiktoken
 pypdf
 langchain_community
 jinja2
+sqlite3 >= 3.35.0
